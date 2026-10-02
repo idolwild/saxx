@@ -1,0 +1,19 @@
+{
+  "name": "Saxx — Connection Roulette",
+  "short_name": "Saxx",
+  "description": "A flirtatious, romantic, connection-building roulette game for adults. Playful, warm, sensual, grounded in consent.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c0908",
+  "theme_color": "#0c0908",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
